@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Manos Kamarianakis</title>
+    <link>https://kamarianakis.github.io/publication-type/1/</link>
+      <atom:link href="https://kamarianakis.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Opinions on this site do not represent those of any other groups. Conversely, the policies of my university and company do not necessarily represent my values.</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kamarianakis.github.io/media/icon_hu917845ee19d198a4aea83298f31603db_47720_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://kamarianakis.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>AR-Assisted Surgical Care via 5G Networks for First Aid Responders</title>
+      <link>https://kamarianakis.github.io/publication/2023-ar-assisted-surgical-care-ieee-camad-2022/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2023-ar-assisted-surgical-care-ieee-camad-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project Elements: A Computational Entity-component-system in a Scene-graph Pythonic Framework, for a Neural, Geometric Computer Graphics Curriculum</title>
+      <link>https://kamarianakis.github.io/publication/2023-elements-eg2023-education/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2023-elements-eg2023-education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recording and Replaying Psychomotor User Actions in VR</title>
+      <link>https://kamarianakis.github.io/publication/2022-vr-recorder-siggraph-2022-posters/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2022-vr-recorder-siggraph-2022-posters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progressive Tearing and Cutting of Soft-bodies in High-performance Virtual Reality</title>
+      <link>https://kamarianakis.github.io/publication/2022-progressive-tearing-and-cutting-egve-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2022-progressive-tearing-and-cutting-egve-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud for Holography and Augmented Reality</title>
+      <link>https://kamarianakis.github.io/publication/2021-cloud-holography-cloudnet/</link>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2021-cloud-holography-cloudnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Covid-19 - VR Strikes Back: Innovative Medical VR Training</title>
+      <link>https://kamarianakis.github.io/publication/2021-cvrsb-siggraph-2021-immersive-pavilion/</link>
+      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2021-cvrsb-siggraph-2021-immersive-pavilion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAGES 3.0: Tying the Knot of Medical VR</title>
+      <link>https://kamarianakis.github.io/publication/2020-mages-3.0-siggraph-2020-immersive-pavilion/</link>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2020-mages-3.0-siggraph-2020-immersive-pavilion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The EdgeConflict Predicate in the 3D Apollonius Diagram</title>
+      <link>https://kamarianakis.github.io/publication/2018-edgeconflict-predicate-voronoi/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2018-edgeconflict-predicate-voronoi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of the Incircle Predicate for the Euclidean Voronoi Diagram of Axes-Aligned Line Segments</title>
+      <link>https://kamarianakis.github.io/publication/2012-incircle-predicate-eurocg-2012/</link>
+      <pubDate>Mon, 19 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2012-incircle-predicate-eurocg-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

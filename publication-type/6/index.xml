@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 | Manos Kamarianakis</title>
+    <link>https://kamarianakis.github.io/publication-type/6/</link>
+      <atom:link href="https://kamarianakis.github.io/publication-type/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Opinions on this site do not represent those of any other groups. Conversely, the policies of my university and company do not necessarily represent my values.</copyright><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kamarianakis.github.io/media/icon_hu917845ee19d198a4aea83298f31603db_47720_512x512_fill_lanczos_center_3.png</url>
+      <title>6</title>
+      <link>https://kamarianakis.github.io/publication-type/6/</link>
+    </image>
+    
+    <item>
+      <title>Less Is More: Efficient Networked VR Transformation Handling Using Geometric Algebra</title>
+      <link>https://kamarianakis.github.io/publication/2023-less-is-more-aaca/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2023-less-is-more-aaca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An All-in-One Geometric Algorithm for Cutting, Tearing, and Drilling Deformable Models</title>
+      <link>https://kamarianakis.github.io/publication/2021-all-in-one-aaca/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2021-all-in-one-aaca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Never ‘Drop the Ball’ in the Operating Room: An Efficient Hand-Based VR HMD Controller Interpolation Algorithm, for Collaborative, Networked Virtual Environments</title>
+      <link>https://kamarianakis.github.io/publication/2021-never-drop-the-ball-acg/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2021-never-drop-the-ball-acg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deform, Cut and Tear a Skinned Model Using Conformal Geometric Algebra</title>
+      <link>https://kamarianakis.github.io/publication/2020-deform-cut-tear-acg/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2020-deform-cut-tear-acg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

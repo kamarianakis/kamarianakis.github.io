@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Manos Kamarianakis</title>
+    <link>https://kamarianakis.github.io/publication-type/3/</link>
+      <atom:link href="https://kamarianakis.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Opinions on this site do not represent those of any other groups. Conversely, the policies of my university and company do not necessarily represent my values.</copyright><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kamarianakis.github.io/media/icon_hu917845ee19d198a4aea83298f31603db_47720_512x512_fill_lanczos_center_3.png</url>
+      <title>3</title>
+      <link>https://kamarianakis.github.io/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>UniSG: Unifying Entity-Component-Systems, 3D &amp; Learning Scenegraphs with GNNs for Generative AI</title>
+      <link>https://kamarianakis.github.io/publication/2023-unisg-arxiv/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2023-unisg-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing Unconstrained Surgical Cuttings in VR Using CNNs</title>
+      <link>https://kamarianakis.github.io/publication/2022-surgical-cuttings-cnn-arxiv/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2022-surgical-cuttings-cnn-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realistic Soft-Body Tearing under 10ms in VR</title>
+      <link>https://kamarianakis.github.io/publication/2022-realistic-softbody-tearing-arxiv/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2022-realistic-softbody-tearing-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>‘Deep Cut‘: An All-in-One Geometric Algorithm for Unconstrained Cut, Tear and Drill of Soft-bodies in Mobile VR.</title>
+      <link>https://kamarianakis.github.io/publication/2021-deep-cut-arxiv/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2021-deep-cut-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decidability of the Theory of Addition and the Frobenius Map in Rings of Rational Functions</title>
+      <link>https://kamarianakis.github.io/publication/2021-decidability-theory-arxiv/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2021-decidability-theory-arxiv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
