@@ -5,11 +5,11 @@
   "theme_color": "#333333",
   "background_color": "#333333",
   "icons": [{
-    "src": "/media/icon_hu917845ee19d198a4aea83298f31603db_47720_192x192_fill_lanczos_center_3.png",
+    "src": "/media/icon_hu58d9f2e69a9f5f134e6ae9513b99dea8_54661_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/media/icon_hu917845ee19d198a4aea83298f31603db_47720_512x512_fill_lanczos_center_3.png",
+    "src": "/media/icon_hu58d9f2e69a9f5f134e6ae9513b99dea8_54661_512x512_fill_lanczos_center_3.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
