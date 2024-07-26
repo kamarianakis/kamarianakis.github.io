@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>electric engineering | Manos Kamarianakis</title>
+    <link>https://kamarianakis.github.io/tag/electric-engineering/</link>
+      <atom:link href="https://kamarianakis.github.io/tag/electric-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <description>electric engineering</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Opinions on this site do not represent those of any other groups. Conversely, the policies of my university and company do not necessarily represent my values.</copyright><lastBuildDate>Mon, 31 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kamarianakis.github.io/media/icon_hu58d9f2e69a9f5f134e6ae9513b99dea8_54661_512x512_fill_lanczos_center_3.png</url>
+      <title>electric engineering</title>
+      <link>https://kamarianakis.github.io/tag/electric-engineering/</link>
+    </image>
+    
+    <item>
+      <title>Survey of new applications of geometric algebra</title>
+      <link>https://kamarianakis.github.io/publication/2023-ga-survey-wiley/</link>
+      <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2023-ga-survey-wiley/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
