@@ -173,14 +173,6 @@
     </item>
     
     <item>
-      <title>\&#34;Deep cut\&#34;: an all-in-one geometric algorithm for unconstrained cut, tear and drill of soft-bodies in mobile vr</title>
-      <link>https://kamarianakis.github.io/publication/2020-deform-cut-tear-acg/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://kamarianakis.github.io/publication/2020-deform-cut-tear-acg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>An All-in-One Geometric Algorithm for Cutting, Tearing, and Drilling Deformable Models</title>
       <link>https://kamarianakis.github.io/publication/2021-all-in-one-aaca/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
@@ -217,6 +209,14 @@
       <link>https://kamarianakis.github.io/publication/2018-apollonius-predicates-thesis/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://kamarianakis.github.io/publication/2018-apollonius-predicates-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deform, Cut and Tear a Skinned Model Using Conformal Geometric Algebra</title>
+      <link>https://kamarianakis.github.io/publication/2020-deform-cut-and-tear-engage/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2020-deform-cut-and-tear-engage/</guid>
       <description></description>
     </item>
     
