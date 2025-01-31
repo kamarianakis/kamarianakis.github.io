@@ -3,7 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://kamarianakis.github.io/publication-type/1/</loc>
-    <lastmod>2024-07-27T16:30:02+03:00</lastmod>
+    <lastmod>2025-01-31T18:44:17+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kamarianakis.github.io/publication/2024-fidal-paper/</loc>
+    <lastmod>2025-01-31T18:44:17+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kamarianakis.github.io/publication_types/</loc>
+    <lastmod>2025-01-31T18:48:22+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kamarianakis.github.io/publication/</loc>
+    <lastmod>2025-01-31T18:48:22+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://kamarianakis.github.io/publication/2024-computational-medical-xr-cgi/</loc>
@@ -26,14 +38,6 @@
     <lastmod>2024-07-26T19:27:36+03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://kamarianakis.github.io/publication_types/</loc>
-    <lastmod>2024-07-27T16:30:02+03:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://kamarianakis.github.io/publication/</loc>
-    <lastmod>2024-07-27T16:30:02+03:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://kamarianakis.github.io/tags/</loc>
     <lastmod>2024-07-26T19:57:35+03:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -43,7 +47,11 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://kamarianakis.github.io/publication-type/2/</loc>
-    <lastmod>2024-07-26T19:57:35+03:00</lastmod>
+    <lastmod>2025-01-31T18:48:22+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kamarianakis.github.io/publication/2024-5gepicentre-paper/</loc>
+    <lastmod>2025-01-31T18:48:22+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://kamarianakis.github.io/tag/clifford-geometric-algebra/</loc>
@@ -138,8 +146,40 @@
     <lastmod>2023-05-10T19:56:04+03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://kamarianakis.github.io/tag/gpu/</loc>
+    <lastmod>2024-01-31T18:03:04+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kamarianakis.github.io/tag/graphics-api/</loc>
+    <lastmod>2024-01-31T18:03:04+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kamarianakis.github.io/tag/opengl/</loc>
+    <lastmod>2024-01-31T18:03:04+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kamarianakis.github.io/tag/programming-framework/</loc>
+    <lastmod>2024-01-31T18:03:04+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://kamarianakis.github.io/publication/2023-elements-eg2023-education/</loc>
     <lastmod>2023-05-10T19:56:14+03:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kamarianakis.github.io/publication/2024-pygandalf-siggraph-asia/</loc>
+    <lastmod>2024-01-31T18:03:04+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kamarianakis.github.io/tag/real-time-rendering/</loc>
+    <lastmod>2024-01-31T18:03:04+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kamarianakis.github.io/tag/teaching/</loc>
+    <lastmod>2024-01-31T18:03:04+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kamarianakis.github.io/tag/webgpu/</loc>
+    <lastmod>2024-01-31T18:03:04+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://kamarianakis.github.io/publication/2022-notes-on-decidability-rml/</loc>
