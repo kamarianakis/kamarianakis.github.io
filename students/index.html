@@ -843,7 +843,27 @@ PhD Theses Stratos Geronikolakis, &ldquo;Radiance Transfer Prediction for Real-T
 
   <div class="article-container">
 
-    <div class="article-style">
+    <div class="form-row mb-4" id="students-filters">
+      <div class="col-auto">
+        <input type="search" id="students-search" class="form-control form-control-sm" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false">
+      </div>
+      <div class="col-auto">
+        <select id="students-type" class="form-control form-control-sm">
+          <option value="">Type</option>
+          <option value="PhD">PhD</option>
+          <option value="MSc">MSc</option>
+          <option value="BSc">BSc</option>
+        </select>
+      </div>
+      <div class="col-auto">
+        <select id="students-year" class="form-control form-control-sm">
+          <option value="">Year</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="article-style" id="students-content">
       <p>Theses co-supervised by Manos Kamarianakis. Where available, click <strong>[PDF]</strong> to download the thesis.</p>
 <h2 id="phd-theses">PhD Theses</h2>
 <ul>
@@ -882,6 +902,7 @@ PhD Theses Stratos Geronikolakis, &ldquo;Radiance Transfer Prediction for Real-T
 </ul>
 
     </div>
+    <p id="students-empty" class="text-muted" hidden>No theses match the filters.</p>
 
     
 
@@ -1021,6 +1042,60 @@ PhD Theses Stratos Geronikolakis, &ldquo;Radiance Transfer Prediction for Real-T
 
   </div>
 </article>
+
+<script>
+(function () {
+  var root = document.getElementById('students-content');
+  var search = document.getElementById('students-search');
+  var typeSel = document.getElementById('students-type');
+  var yearSel = document.getElementById('students-year');
+  var empty = document.getElementById('students-empty');
+
+  
+  var groups = [];
+  Array.prototype.forEach.call(root.querySelectorAll('h2'), function (h) {
+    var m = h.textContent.match(/PhD|MSc|BSc/);
+    var list = h.nextElementSibling;
+    if (!m || !list || list.tagName !== 'UL') return;
+    var items = Array.prototype.map.call(list.querySelectorAll('li'), function (li) {
+      var y = li.textContent.replace(/\s*\[PDF\]\s*$/, '').match(/[\s,]((?:19|20)\d\d)\s*$/);
+      return { el: li, text: li.textContent.toLowerCase(), year: y ? y[1] : 'ongoing' };
+    });
+    groups.push({ heading: h, list: list, type: m[0], items: items });
+  });
+
+  
+  var years = {};
+  groups.forEach(function (g) { g.items.forEach(function (i) { years[i.year] = true; }); });
+  Object.keys(years).sort().reverse().forEach(function (y) {
+    if (y === 'ongoing') return;
+    yearSel.add(new Option(y, y));
+  });
+  if (years.ongoing) yearSel.add(new Option('Ongoing', 'ongoing'));
+
+  function apply() {
+    var q = search.value.trim().toLowerCase();
+    var any = false;
+    groups.forEach(function (g) {
+      var shown = 0;
+      g.items.forEach(function (i) {
+        var ok = (!q || i.text.indexOf(q) !== -1) &&
+                 (!typeSel.value || g.type === typeSel.value) &&
+                 (!yearSel.value || i.year === yearSel.value);
+        i.el.hidden = !ok;
+        if (ok) shown++;
+      });
+      g.heading.hidden = g.list.hidden = shown === 0;
+      if (shown) any = true;
+    });
+    empty.hidden = any;
+  }
+
+  search.addEventListener('input', apply);
+  typeSel.addEventListener('change', apply);
+  yearSel.addEventListener('change', apply);
+})();
+</script>
   </div>
 
   <div class="page-footer">
@@ -1056,11 +1131,6 @@ PhD Theses Stratos Geronikolakis, &ldquo;Radiance Transfer Prediction for Real-T
   
   
   
-
-
-
-
-
 
 
 
