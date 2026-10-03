@@ -1,61 +1,431 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Manos Kamarianakis</title><link>https://kamarianakis.github.io/</link><atom:link href="https://kamarianakis.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Manos Kamarianakis</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Opinions on this site do not represent those of any other groups. Conversely, the policies of my university and company do not necessarily represent my values.</copyright><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://kamarianakis.github.io/media/icon_hu58d9f2e69a9f5f134e6ae9513b99dea8_54661_512x512_fill_lanczos_center_3.png</url><title>Manos Kamarianakis</title><link>https://kamarianakis.github.io/</link></image><item><title>Students</title><link>https://kamarianakis.github.io/students/</link><pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/students/</guid><description>&lt;p>Theses co-supervised by Manos Kamarianakis (25 in total: 3 PhD, 6 MSc, 16 BSc).&lt;/p>
-&lt;h2 id="phd-theses">PhD Theses&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Stratos Geronikolakis&lt;/strong>, &amp;ldquo;An intelligent XR transition framework, allowing automatic interoperability and adaptability of the same computer graphics application across the different realities of the XR spectrum&amp;rdquo;, Oct 2025&lt;/li>
-&lt;li>&lt;strong>George Kokiadis&lt;/strong>, &amp;ldquo;Improving the performance of games through the Dissection of a game engine using 5G infrastructure&amp;rdquo;, ongoing&lt;/li>
-&lt;li>&lt;strong>Nick Lydatakis&lt;/strong>, &amp;ldquo;A novel Application Partitioning Framework for High-Fidelity Edge-Cloud Collaboration in Extended Reality with Soft Mesh Deformations&amp;rdquo;, ongoing&lt;/li>
-&lt;/ul>
-&lt;h2 id="msc-theses">MSc Theses&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Michael Tamiolakis&lt;/strong>, &amp;ldquo;High-realism Real-Time Cutting, Tearing &amp;amp; Drilling of 3D Deformable Models in XR environments&amp;rdquo;, 2025&lt;/li>
-&lt;li>&lt;strong>John Petropoulos&lt;/strong>, &amp;ldquo;pyGANDALF: a Geometric, Animation, Neural, Directed, Algorithmic, Learning Framework for computer graphics&amp;rdquo;, 2024&lt;/li>
-&lt;li>&lt;strong>George Kokiadis&lt;/strong>, &amp;ldquo;ImmerseDataXR: Advancing Data Comprehension with Immersive Visualizations&amp;rdquo;, 2024&lt;/li>
-&lt;li>&lt;strong>Manos Karidis&lt;/strong>, &amp;ldquo;Grasp Recognition for Intention Prediction in Virtual Reality (GRIP-VR)&amp;rdquo;, ongoing&lt;/li>
-&lt;li>&lt;strong>Paul Ziotas&lt;/strong>, ongoing&lt;/li>
-&lt;li>&lt;strong>Michael Morfiadakis&lt;/strong>, ongoing&lt;/li>
-&lt;/ul>
-&lt;h2 id="bsc-theses">BSc Theses&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Alvi Nikola&lt;/strong>, &amp;ldquo;CSD-3D: A Virtual and Interactive Computer Science Department&amp;rdquo;, 2025&lt;/li>
-&lt;li>&lt;strong>Elisavet Kourkounakis&lt;/strong>, &amp;ldquo;LLM-based Code Generation for Python Computer Graphics Frameworks from Natural Language Prompts&amp;rdquo;&lt;/li>
-&lt;li>&lt;strong>Marinos Chiarugi&lt;/strong>, &amp;ldquo;Procedural Terrain Generation with Real Time Erosion Simulation in PyGandalf Framework&amp;rdquo;&lt;/li>
-&lt;li>&lt;strong>Lefteris Toupis&lt;/strong>, &amp;ldquo;Rendering interface implementation using WebGPU in Elements framework&amp;rdquo;, 2024&lt;/li>
-&lt;li>&lt;strong>Constantinos Georgiou&lt;/strong>, &amp;ldquo;Implementation of node editor and gizmos for entities inside the Elements framework&amp;rdquo;, 2024&lt;/li>
-&lt;li>&lt;strong>Tasos Akoumianakis&lt;/strong>, &amp;ldquo;The differences between Godot and Unity&amp;rsquo;s environments during the process of development&amp;rdquo;, 2024&lt;/li>
-&lt;li>&lt;strong>Manos Platakis&lt;/strong>, &amp;ldquo;Physio-Fitness in AR: A New Dimension for Health Improvement&amp;rdquo;, 2024&lt;/li>
-&lt;li>&lt;strong>Elias Vlachos&lt;/strong>, &amp;ldquo;GPU-enabled Algorithms on the Entity-Component-System (ECS) Model for Textured 3D Object Animation&amp;rdquo;, 2024&lt;/li>
-&lt;li>&lt;strong>Paul Ziotas&lt;/strong>, &amp;ldquo;Transformation visual controllers for interactive scene manipulation in virtual reality&amp;rdquo;, 2023&lt;/li>
-&lt;li>&lt;strong>Nick Hliakis&lt;/strong>, &amp;ldquo;Modeling the Spatiotemporal Spread of COVID-19 in Closed Transportation Environments in a Virtual Reality Setting&amp;rdquo;, 2023&lt;/li>
-&lt;li>&lt;strong>Manos Karidis&lt;/strong>, &amp;ldquo;Automatic Lipsync/Expressions based on skeleton&amp;rdquo;, 2023&lt;/li>
-&lt;li>&lt;strong>John Petropoulos&lt;/strong>, &amp;ldquo;An integrated algorithm for geometric cut, tear and drill of skinned meshes in VR&amp;rdquo;, 2021&lt;/li>
-&lt;li>&lt;strong>George Mavrantonakis&lt;/strong>, ongoing&lt;/li>
-&lt;li>&lt;strong>Panagiotis Antonakis&lt;/strong>, ongoing&lt;/li>
-&lt;li>&lt;strong>Aris Patramanis&lt;/strong>, ongoing&lt;/li>
-&lt;li>&lt;strong>Jason Dimitreas&lt;/strong>, ongoing&lt;/li>
-&lt;/ul></description></item><item><title>Teaching</title><link>https://kamarianakis.github.io/teaching/</link><pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/teaching/</guid><description>&lt;p>Abbreviations: &lt;strong>TUC-ECE&lt;/strong> for the Technical University of Crete, School of Electrical &amp;amp; Computer Engineering, Chania, Greece, and &lt;strong>UoC-CSD&lt;/strong> for the University of Crete, Department of Computer Science, Heraklion, Crete.&lt;/p>
-&lt;h2 id="instructor-of-record">Instructor of Record&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Winter 2026-2027&lt;/strong> (current): CS-358 Computer Graphics, UoC-CSD, undergraduate, teaching under supervision&lt;/li>
-&lt;li>&lt;strong>Winter 2025-2026&lt;/strong>: MTH-101 Single-Variable Calculus, TUC-ECE, undergraduate&lt;/li>
-&lt;li>&lt;strong>Spring 2024-2025&lt;/strong>: MTH-111 Discrete Mathematics, TUC-ECE, undergraduate&lt;/li>
-&lt;li>&lt;strong>Spring 2024-2025&lt;/strong>: MTH-112 Numerical Analysis, TUC-ECE, undergraduate&lt;/li>
-&lt;li>&lt;strong>Winter 2024-2025&lt;/strong>: MTH-101 Single-Variable Calculus, TUC-ECE, undergraduate&lt;/li>
-&lt;li>&lt;strong>Winter 2024-2025&lt;/strong>: &lt;a href="https://elearn.uoc.gr/course/view.php?id=5332" target="_blank" rel="noopener">CS-358 Computer Graphics&lt;/a>, UoC-CSD, undergraduate, teaching under supervision&lt;/li>
-&lt;li>&lt;strong>Spring 2022-2023&lt;/strong>: &lt;a href="https://elearn.uoc.gr/course/view.php?id=4072" target="_blank" rel="noopener">CS-553 Interactive Computer Graphics&lt;/a>, UoC-CSD, graduate&lt;/li>
-&lt;li>&lt;strong>Winter 2022-2023&lt;/strong>: &lt;a href="https://elearn.uoc.gr/course/view.php?id=3814" target="_blank" rel="noopener">CS-358 Computer Graphics&lt;/a>, UoC-CSD, undergraduate&lt;/li>
-&lt;/ul>
-&lt;h2 id="co-teaching">Co-teaching&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Spring 2025-2026&lt;/strong>: CS-553 Interactive Computer Graphics, UoC-CSD, graduate&lt;/li>
-&lt;li>&lt;strong>Winter 2025-2026&lt;/strong>: CS-358 Computer Graphics, UoC-CSD, undergraduate&lt;/li>
-&lt;li>&lt;strong>Spring 2024-2025&lt;/strong>: CS-553 Interactive Computer Graphics, UoC-CSD, graduate&lt;/li>
-&lt;li>&lt;strong>Spring 2023-2024&lt;/strong>: &lt;a href="https://elearn.uoc.gr/course/view.php?id=4912" target="_blank" rel="noopener">CS-553 Interactive Computer Graphics&lt;/a>, UoC-CSD, graduate&lt;/li>
-&lt;li>&lt;strong>Winter 2023-2024&lt;/strong>: &lt;a href="https://elearn.uoc.gr/course/view.php?id=4615" target="_blank" rel="noopener">CS-358 Computer Graphics&lt;/a>, UoC-CSD, undergraduate&lt;/li>
-&lt;li>&lt;strong>Spring 2021-2022&lt;/strong>: &lt;a href="https://elearn.uoc.gr/course/view.php?id=3456" target="_blank" rel="noopener">CS-553 Interactive Computer Graphics&lt;/a>, UoC-CSD, graduate&lt;/li>
-&lt;li>&lt;strong>Winter 2021-2022&lt;/strong>: CS-358 Computer Graphics, UoC-CSD, undergraduate&lt;/li>
-&lt;/ul>
-&lt;h2 id="teaching-assistant">Teaching Assistant&lt;/h2>
-&lt;p>I was a teaching assistant in the Department of Mathematics, University of Crete, from 2005 to 2014 (officially) and from 2014 to 2017 (unofficially, as a volunteer to accommodate department needs). Among the courses I have taught to graduate or undergraduate students are: Algebra, Number Theory, Logic, Probabilities, Analysis and Design of Algorithms, Discrete Mathematics, Numerical Analysis, Numerical Solution of ODEs, Cryptology, Linear Algebra, Analytic Geometry, Group Theory, Galois Theory, Analysis and Foundation of Mathematics, Decidability.&lt;/p>
-&lt;p>I also helped students with programming in various languages and frameworks such as Python, C/C++, Maple, Matlab, LaTeX/XeTeX/BibTeX and Ipe (graphics editor). Finally, I trained undergraduate students for the GRE-general and GRE-mathematics tests.&lt;/p>
-&lt;h2 id="thesis-co-supervision">Thesis Co-Supervision&lt;/h2>
-&lt;p>I have co-supervised 25 theses (16 BSc, 6 MSc, 3 PhD). See all of them on the &lt;a href="https://kamarianakis.github.io/students/">Students&lt;/a> page.&lt;/p></description></item><item><title>One algebra for all: Geometric Algebra methods for neurosymbolic XR scene authoring, animation and neural rendering</title><link>https://kamarianakis.github.io/publication/2026-one-algebra-for-all-phil-trans/</link><pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2026-one-algebra-for-all-phil-trans/</guid><description/></item><item><title>Conformal Geometric Algebra as a Symbolic Interface for LLM-Driven 3D Scene Editing</title><link>https://kamarianakis.github.io/publication/2026-cga-llm-scene-editing-engage/</link><pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2026-cga-llm-scene-editing-engage/</guid><description/></item><item><title>From Synthetic Worlds to Situated Action: Multi-Agent Grounding and CGA-Based Spatial Reasoning for VR Training</title><link>https://kamarianakis.github.io/publication/2026-synthetic-worlds-to-situated-action-engage/</link><pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2026-synthetic-worlds-to-situated-action-engage/</guid><description/></item><item><title>Neural-GASh: A CGA-Based Neural Radiance Prediction Pipeline for Real-Time Shading</title><link>https://kamarianakis.github.io/publication/2026-neural-gash-engage/</link><pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2026-neural-gash-engage/</guid><description/></item><item><title>The Uncanny Valley in medical simulation-based training: a visual summary</title><link>https://kamarianakis.github.io/publication/2025-uncanny-valley-arxiv/</link><pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2025-uncanny-valley-arxiv/</guid><description/></item><item><title>Geometric Algebra Meets Large Language Models: Instruction-Based Transformations of Separate Meshes in 3D, Interactive and Controllable Scenes</title><link>https://kamarianakis.github.io/publication/2025-shenlong-isemv/</link><pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2025-shenlong-isemv/</guid><description/></item><item><title>Non-linear, Team-based VR Training for Cardiac Arrest Care with enhanced CRM Toolkit</title><link>https://kamarianakis.github.io/publication/2025-ireact-eg2025-short/</link><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2025-ireact-eg2025-short/</guid><description/></item><item><title>GA-Unity: A Production-Ready Unity Package for Seamless Integration of Geometric Algebra in Networked Collaborative Applications</title><link>https://kamarianakis.github.io/publication/2024-gaunity-engage/</link><pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2024-gaunity-engage/</guid><description/></item><item><title>pyGANDALF - An open-source Geometric, ANimation, Directed, Algorithmic, Learning Framework for Computer Graphics</title><link>https://kamarianakis.github.io/publication/2024-pygandalf-siggraph-asia/</link><pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2024-pygandalf-siggraph-asia/</guid><description/></item><item><title>Experiences and Challenges on Testing and Validating Network Aware PPDR XR Applications for 5G Advanced Networks</title><link>https://kamarianakis.github.io/publication/2024-fidal-paper/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2024-fidal-paper/</guid><description/></item><item><title>A computational medical XR discipline</title><link>https://kamarianakis.github.io/publication/2024-computational-medical-xr-cgi/</link><pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2024-computational-medical-xr-cgi/</guid><description/></item><item><title>Vr isle academy: a vr digital twin approach for robotic surgical skill development</title><link>https://kamarianakis.github.io/publication/2024-srs-cgi/</link><pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2024-srs-cgi/</guid><description/></item><item><title>Dissection of XR Physics Engine into a Cloud-native Service</title><link>https://kamarianakis.github.io/publication/2024-physics-dissection-eg2024/</link><pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2024-physics-dissection-eg2024/</guid><description/></item><item><title>A network application approach towards 5G and beyond critical communications use cases</title><link>https://kamarianakis.github.io/publication/2024-5gepicentre-paper/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2024-5gepicentre-paper/</guid><description/></item><item><title>Survey of new applications of geometric algebra</title><link>https://kamarianakis.github.io/publication/2023-ga-survey-wiley/</link><pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2023-ga-survey-wiley/</guid><description/></item><item><title>UniSG^GA: A 3D Scenegraph Powered by Geometric Algebra Unifying Geometry, Behavior and GNNs towards Generative AI</title><link>https://kamarianakis.github.io/publication/2023-unisg_ga-engage/</link><pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2023-unisg_ga-engage/</guid><description/></item><item><title>UniSG: Unifying Entity-Component-Systems, 3D &amp; Learning Scenegraphs with GNNs for Generative AI</title><link>https://kamarianakis.github.io/publication/2023-unisg-arxiv/</link><pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2023-unisg-arxiv/</guid><description/></item><item><title>MAGES 4.0: Accelerating the World’s Transition to VR Training and Democratizing the Authoring of the Medical Metaverse</title><link>https://kamarianakis.github.io/publication/2023-mages-4.0-ieee-cga/</link><pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2023-mages-4.0-ieee-cga/</guid><description/></item><item><title>Less Is More: Efficient Networked VR Transformation Handling Using Geometric Algebra</title><link>https://kamarianakis.github.io/publication/2023-less-is-more-aaca/</link><pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2023-less-is-more-aaca/</guid><description/></item><item><title>AR-Assisted Surgical Care via 5G Networks for First Aid Responders</title><link>https://kamarianakis.github.io/publication/2023-ar-assisted-surgical-care-ieee-camad-2022/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2023-ar-assisted-surgical-care-ieee-camad-2022/</guid><description/></item><item><title>Project Elements: A Computational Entity-component-system in a Scene-graph Pythonic Framework, for a Neural, Geometric Computer Graphics Curriculum</title><link>https://kamarianakis.github.io/publication/2023-elements-eg2023-education/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2023-elements-eg2023-education/</guid><description/></item><item><title>Notes on the Decidability of Addition and the Frobenius Map for Polynomials and Rational Functions</title><link>https://kamarianakis.github.io/publication/2022-notes-on-decidability-rml/</link><pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2022-notes-on-decidability-rml/</guid><description/></item><item><title>Recording and Replaying Psychomotor User Actions in VR</title><link>https://kamarianakis.github.io/publication/2022-vr-recorder-siggraph-2022-posters/</link><pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2022-vr-recorder-siggraph-2022-posters/</guid><description/></item><item><title>Editorial: New Virtual Reality and Spatial Computing Applications to Empower, Upskill and Reskill Medical Professionals in a Post-Pandemic Era</title><link>https://kamarianakis.github.io/publication/2022-editorial-frontiers-vr/</link><pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2022-editorial-frontiers-vr/</guid><description/></item><item><title>Virtual Reality Medical Training for COVID-19 Swab Testing and Proper Handling of Personal Protective Equipment: Development and Usability</title><link>https://kamarianakis.github.io/publication/2022-vr-swab-testing-frontiers/</link><pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2022-vr-swab-testing-frontiers/</guid><description/></item><item><title>Assessing Unconstrained Surgical Cuttings in VR Using CNNs</title><link>https://kamarianakis.github.io/publication/2022-surgical-cuttings-cnn-arxiv/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2022-surgical-cuttings-cnn-arxiv/</guid><description/></item><item><title>Cloud-Based XR Services: A Survey on Relevant Challenges and Enabling Technologies</title><link>https://kamarianakis.github.io/publication/2022-cloud-based-xr-jnna/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2022-cloud-based-xr-jnna/</guid><description/></item><item><title>Progressive Tearing and Cutting of Soft-bodies in High-performance Virtual Reality</title><link>https://kamarianakis.github.io/publication/2022-progressive-tearing-and-cutting-egve-2022/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2022-progressive-tearing-and-cutting-egve-2022/</guid><description/></item><item><title>Realistic Soft-Body Tearing under 10ms in VR</title><link>https://kamarianakis.github.io/publication/2022-realistic-softbody-tearing-arxiv/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2022-realistic-softbody-tearing-arxiv/</guid><description/></item><item><title>Cloud for Holography and Augmented Reality</title><link>https://kamarianakis.github.io/publication/2021-cloud-holography-cloudnet/</link><pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2021-cloud-holography-cloudnet/</guid><description/></item><item><title>‘Deep Cut‘: An All-in-One Geometric Algorithm for Unconstrained Cut, Tear and Drill of Soft-bodies in Mobile VR.</title><link>https://kamarianakis.github.io/publication/2021-deep-cut-arxiv/</link><pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2021-deep-cut-arxiv/</guid><description/></item><item><title>Covid-19 - VR Strikes Back: Innovative Medical VR Training</title><link>https://kamarianakis.github.io/publication/2021-cvrsb-siggraph-2021-immersive-pavilion/</link><pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2021-cvrsb-siggraph-2021-immersive-pavilion/</guid><description/></item><item><title>Decidability of the theory of addition and the Frobenius map in certain rings of rational functions</title><link>https://kamarianakis.github.io/publication/2021-decidability-panhellenic-logic-symposium/</link><pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2021-decidability-panhellenic-logic-symposium/</guid><description/></item><item><title>An All-in-One Geometric Algorithm for Cutting, Tearing, and Drilling Deformable Models</title><link>https://kamarianakis.github.io/publication/2021-all-in-one-aaca/</link><pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2021-all-in-one-aaca/</guid><description/></item><item><title>Decidability of the Theory of Addition and the Frobenius Map in Rings of Rational Functions</title><link>https://kamarianakis.github.io/publication/2021-decidability-theory-arxiv/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2021-decidability-theory-arxiv/</guid><description/></item><item><title>Never ‘Drop the Ball’ in the Operating Room: An Efficient Hand-Based VR HMD Controller Interpolation Algorithm, for Collaborative, Networked Virtual Environments</title><link>https://kamarianakis.github.io/publication/2021-never-drop-the-ball-acg/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2021-never-drop-the-ball-acg/</guid><description/></item><item><title>MAGES 3.0: Tying the Knot of Medical VR</title><link>https://kamarianakis.github.io/publication/2020-mages-3.0-siggraph-2020-immersive-pavilion/</link><pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2020-mages-3.0-siggraph-2020-immersive-pavilion/</guid><description/></item><item><title>Predicates of the 3D Apollonius Diagram</title><link>https://kamarianakis.github.io/publication/2018-apollonius-predicates-thesis/</link><pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2018-apollonius-predicates-thesis/</guid><description/></item><item><title>Deform, Cut and Tear a Skinned Model Using Conformal Geometric Algebra</title><link>https://kamarianakis.github.io/publication/2020-deform-cut-and-tear-engage/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2020-deform-cut-and-tear-engage/</guid><description/></item><item><title>The EdgeConflict Predicate in the 3D Apollonius Diagram</title><link>https://kamarianakis.github.io/publication/2018-edgeconflict-predicate-voronoi/</link><pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2018-edgeconflict-predicate-voronoi/</guid><description/></item><item><title>Analysis of the textsfIncircle predicate for the Euclidean Voronoi diagram of axes-aligned line segments</title><link>https://kamarianakis.github.io/publication/2012-incircle-predicate-eurocg-2012/</link><pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2012-incircle-predicate-eurocg-2012/</guid><description/></item><item><title>Predicates for the Euclidean Voronoi Diagram of Axis-Aligned and Ortho-45 Line Segments</title><link>https://kamarianakis.github.io/publication/2011-predicates-voronoi-msc-thesis/</link><pubDate>Fri, 16 Sep 2011 00:00:00 +0000</pubDate><guid>https://kamarianakis.github.io/publication/2011-predicates-voronoi-msc-thesis/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manos Kamarianakis</title>
+    <link>https://kamarianakis.github.io/</link>
+      <atom:link href="https://kamarianakis.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manos Kamarianakis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Opinions on this site do not represent those of any other groups. Conversely, the policies of my university and company do not necessarily represent my values.</copyright><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kamarianakis.github.io/media/icon_hu58d9f2e69a9f5f134e6ae9513b99dea8_54661_512x512_fill_lanczos_center_3.png</url>
+      <title>Manos Kamarianakis</title>
+      <link>https://kamarianakis.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Students</title>
+      <link>https://kamarianakis.github.io/students/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/students/</guid>
+      <description>&lt;p&gt;Theses co-supervised by Manos Kamarianakis. Where available, click &lt;strong&gt;[PDF]&lt;/strong&gt; to download the thesis.&lt;/p&gt;
+&lt;h2 id=&#34;phd-theses&#34;&gt;PhD Theses&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Stratos Geronikolakis&lt;/strong&gt;, &amp;ldquo;Radiance Transfer Prediction for Real-Time Rendering using Neural Networks and Geometric Algebra&amp;rdquo;, Oct 2025 &lt;a href=&#34;https://kamarianakis.github.io/files/theses/geronikolakis-phd.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;George Kokiadis&lt;/strong&gt;, &amp;ldquo;Improving the performance of games through the Dissection of a game engine using 5G infrastructure&amp;rdquo;, ongoing&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nick Lydatakis&lt;/strong&gt;, &amp;ldquo;A novel Application Partitioning Framework for High-Fidelity Edge-Cloud Collaboration in Extended Reality with Soft Mesh Deformations&amp;rdquo;, 2026&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;msc-theses&#34;&gt;MSc Theses&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Michael Tamiolakis&lt;/strong&gt;, &amp;ldquo;A Real-Time Physics Framework, with advanced Cutting, Tearing and Piercing interactions for mobile XR applications&amp;rdquo;, 2025 &lt;a href=&#34;https://kamarianakis.github.io/files/theses/tamiolakis-msc.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Eleni Grigoriou&lt;/strong&gt;, &amp;ldquo;A Pattern-Driven Gamification Framework for Interaction and Visualization in Programmable Reality Environments&amp;rdquo;, 2025 &lt;a href=&#34;https://kamarianakis.github.io/files/theses/grigoriou-msc.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;John Petropoulos&lt;/strong&gt;, &amp;ldquo;pyGANDALF: a Geometric, Animation, Neural, Directed, Algorithmic, Learning Framework for computer graphics&amp;rdquo;, 2024 &lt;a href=&#34;https://kamarianakis.github.io/files/theses/petropoulos-msc.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;George Kokiadis&lt;/strong&gt;, &amp;ldquo;ImmerseDataXR: Advancing Data Comprehension with Immersive Visualizations&amp;rdquo;, 2024&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Manos Karidis&lt;/strong&gt;, &amp;ldquo;Grasp Recognition for Intention Prediction in Virtual Reality (GRIP-VR)&amp;rdquo;, ongoing &lt;a href=&#34;https://kamarianakis.github.io/files/theses/karydis-msc.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Paul Ziotas&lt;/strong&gt;, ongoing&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Michael Morfiadakis&lt;/strong&gt;, ongoing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;bsc-theses&#34;&gt;BSc Theses&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Alvi Nikola&lt;/strong&gt;, &amp;ldquo;CSD-3D: A Virtual and Interactive Computer Science Department&amp;rdquo;, 2025 &lt;a href=&#34;https://kamarianakis.github.io/files/theses/alvi-bsc.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Elisavet Kourkounaki&lt;/strong&gt;, &amp;ldquo;LLM-based Code Generation for Python Computer Graphics Frameworks from Natural Language Prompts&amp;rdquo;, 2026 &lt;a href=&#34;https://kamarianakis.github.io/files/theses/kourkounaki-bsc.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Marinos Chiarugi&lt;/strong&gt;, &amp;ldquo;Procedural Terrain Generation with Real Time Erosion Simulation in PyGandalf Framework&amp;rdquo;, 2026 &lt;a href=&#34;https://kamarianakis.github.io/files/theses/chiarugi-bsc.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lefteris Toupis&lt;/strong&gt;, &amp;ldquo;Rendering interface implementation using WebGPU in Elements framework&amp;rdquo;, 2024 &lt;a href=&#34;https://kamarianakis.github.io/files/theses/toupis-bsc.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Constantinos Georgiou&lt;/strong&gt;, &amp;ldquo;Implementation of node editor and gizmos for entities inside the Elements framework&amp;rdquo;, 2024 &lt;a href=&#34;https://kamarianakis.github.io/files/theses/georgiou-bsc.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tasos Akoumianakis&lt;/strong&gt;, &amp;ldquo;The differences between Godot and Unity&amp;rsquo;s environments during the process of development&amp;rdquo;, 2024 &lt;a href=&#34;https://kamarianakis.github.io/files/theses/akoumianakis-bsc.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Manos Platakis&lt;/strong&gt;, &amp;ldquo;Physio-Fitness in AR: A New Dimension for Health Improvement&amp;rdquo;, 2024 &lt;a href=&#34;https://kamarianakis.github.io/files/theses/platakis-bsc.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Elias Vlachos&lt;/strong&gt;, &amp;ldquo;GPU-enabled Algorithms on the Entity-Component-System (ECS) Model for Textured 3D Object Animation&amp;rdquo;, 2024 &lt;a href=&#34;https://kamarianakis.github.io/files/theses/vlachos-bsc.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Paul Ziotas&lt;/strong&gt;, &amp;ldquo;Transformation visual controllers for interactive scene manipulation in virtual reality&amp;rdquo;, 2023 &lt;a href=&#34;https://kamarianakis.github.io/files/theses/ziotas-bsc.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nick Hliakis&lt;/strong&gt;, &amp;ldquo;Modeling the Spatiotemporal Spread of COVID-19 in Closed Transportation Environments in a Virtual Reality Setting&amp;rdquo;, 2023 &lt;a href=&#34;https://kamarianakis.github.io/files/theses/hliakis-bsc.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Manos Karidis&lt;/strong&gt;, &amp;ldquo;Automatic Lipsync/Expressions based on skeleton&amp;rdquo;, 2023 &lt;a href=&#34;https://kamarianakis.github.io/files/theses/karydis-bsc.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;John Petropoulos&lt;/strong&gt;, &amp;ldquo;An integrated algorithm for geometric cut, tear and drill of skinned meshes in VR&amp;rdquo;, 2021 &lt;a href=&#34;https://kamarianakis.github.io/files/theses/petropoulos-bsc.pdf&#34;&gt;[PDF]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;George Mavrantonakis&lt;/strong&gt;, ongoing&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Panagiotis Antonakis&lt;/strong&gt;, ongoing&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Aris Patramanis&lt;/strong&gt;, ongoing&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jason Dimitreas&lt;/strong&gt;, ongoing&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://kamarianakis.github.io/teaching/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/teaching/</guid>
+      <description>&lt;p&gt;Abbreviations: &lt;strong&gt;TUC-ECE&lt;/strong&gt; for the Technical University of Crete, School of Electrical &amp;amp; Computer Engineering, Chania, Greece, and &lt;strong&gt;UoC-CSD&lt;/strong&gt; for the University of Crete, Department of Computer Science, Heraklion, Crete.&lt;/p&gt;
+&lt;h2 id=&#34;instructor-of-record&#34;&gt;Instructor of Record&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Winter 2026-2027&lt;/strong&gt; (current): CS-358 Computer Graphics, UoC-CSD, undergraduate, teaching under supervision&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Winter 2025-2026&lt;/strong&gt;: MTH-101 Single-Variable Calculus, TUC-ECE, undergraduate&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Spring 2024-2025&lt;/strong&gt;: MTH-111 Discrete Mathematics, TUC-ECE, undergraduate&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Spring 2024-2025&lt;/strong&gt;: MTH-112 Numerical Analysis, TUC-ECE, undergraduate&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Winter 2024-2025&lt;/strong&gt;: MTH-101 Single-Variable Calculus, TUC-ECE, undergraduate&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Winter 2024-2025&lt;/strong&gt;: &lt;a href=&#34;https://elearn.uoc.gr/course/view.php?id=5332&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CS-358 Computer Graphics&lt;/a&gt;, UoC-CSD, undergraduate, teaching under supervision&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Spring 2022-2023&lt;/strong&gt;: &lt;a href=&#34;https://elearn.uoc.gr/course/view.php?id=4072&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CS-553 Interactive Computer Graphics&lt;/a&gt;, UoC-CSD, graduate&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Winter 2022-2023&lt;/strong&gt;: &lt;a href=&#34;https://elearn.uoc.gr/course/view.php?id=3814&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CS-358 Computer Graphics&lt;/a&gt;, UoC-CSD, undergraduate&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;co-teaching&#34;&gt;Co-teaching&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Spring 2025-2026&lt;/strong&gt;: CS-553 Interactive Computer Graphics, UoC-CSD, graduate&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Winter 2025-2026&lt;/strong&gt;: CS-358 Computer Graphics, UoC-CSD, undergraduate&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Spring 2024-2025&lt;/strong&gt;: CS-553 Interactive Computer Graphics, UoC-CSD, graduate&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Spring 2023-2024&lt;/strong&gt;: &lt;a href=&#34;https://elearn.uoc.gr/course/view.php?id=4912&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CS-553 Interactive Computer Graphics&lt;/a&gt;, UoC-CSD, graduate&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Winter 2023-2024&lt;/strong&gt;: &lt;a href=&#34;https://elearn.uoc.gr/course/view.php?id=4615&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CS-358 Computer Graphics&lt;/a&gt;, UoC-CSD, undergraduate&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Spring 2021-2022&lt;/strong&gt;: &lt;a href=&#34;https://elearn.uoc.gr/course/view.php?id=3456&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CS-553 Interactive Computer Graphics&lt;/a&gt;, UoC-CSD, graduate&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Winter 2021-2022&lt;/strong&gt;: CS-358 Computer Graphics, UoC-CSD, undergraduate&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;teaching-assistant&#34;&gt;Teaching Assistant&lt;/h2&gt;
+&lt;p&gt;I was a teaching assistant in the Department of Mathematics, University of Crete, from 2005 to 2014 (officially) and from 2014 to 2017 (unofficially, as a volunteer to accommodate department needs). Among the courses I have taught to graduate or undergraduate students are: Algebra, Number Theory, Logic, Probabilities, Analysis and Design of Algorithms, Discrete Mathematics, Numerical Analysis, Numerical Solution of ODEs, Cryptology, Linear Algebra, Analytic Geometry, Group Theory, Galois Theory, Analysis and Foundation of Mathematics, Decidability.&lt;/p&gt;
+&lt;p&gt;I also helped students with programming in various languages and frameworks such as Python, C/C++, Maple, Matlab, LaTeX/XeTeX/BibTeX and Ipe (graphics editor). Finally, I trained undergraduate students for the GRE-general and GRE-mathematics tests.&lt;/p&gt;
+&lt;h2 id=&#34;thesis-co-supervision&#34;&gt;Thesis Co-Supervision&lt;/h2&gt;
+&lt;p&gt;I have co-supervised numerous BSc, MSc and PhD theses. See all of them on the &lt;a href=&#34;https://kamarianakis.github.io/students/&#34;&gt;Students&lt;/a&gt; page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One algebra for all: Geometric Algebra methods for neurosymbolic XR scene authoring, animation and neural rendering</title>
+      <link>https://kamarianakis.github.io/publication/2026-one-algebra-for-all-phil-trans/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2026-one-algebra-for-all-phil-trans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conformal Geometric Algebra as a Symbolic Interface for LLM-Driven 3D Scene Editing</title>
+      <link>https://kamarianakis.github.io/publication/2026-cga-llm-scene-editing-engage/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2026-cga-llm-scene-editing-engage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Synthetic Worlds to Situated Action: Multi-Agent Grounding and CGA-Based Spatial Reasoning for VR Training</title>
+      <link>https://kamarianakis.github.io/publication/2026-synthetic-worlds-to-situated-action-engage/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2026-synthetic-worlds-to-situated-action-engage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural-GASh: A CGA-Based Neural Radiance Prediction Pipeline for Real-Time Shading</title>
+      <link>https://kamarianakis.github.io/publication/2026-neural-gash-engage/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2026-neural-gash-engage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Uncanny Valley in medical simulation-based training: a visual summary</title>
+      <link>https://kamarianakis.github.io/publication/2025-uncanny-valley-arxiv/</link>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2025-uncanny-valley-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geometric Algebra Meets Large Language Models: Instruction-Based Transformations of Separate Meshes in 3D, Interactive and Controllable Scenes</title>
+      <link>https://kamarianakis.github.io/publication/2025-shenlong-isemv/</link>
+      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2025-shenlong-isemv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-linear, Team-based VR Training for Cardiac Arrest Care with enhanced CRM Toolkit</title>
+      <link>https://kamarianakis.github.io/publication/2025-ireact-eg2025-short/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2025-ireact-eg2025-short/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GA-Unity: A Production-Ready Unity Package for Seamless Integration of Geometric Algebra in Networked Collaborative Applications</title>
+      <link>https://kamarianakis.github.io/publication/2024-gaunity-engage/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2024-gaunity-engage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pyGANDALF - An open-source Geometric, ANimation, Directed, Algorithmic, Learning Framework for Computer Graphics</title>
+      <link>https://kamarianakis.github.io/publication/2024-pygandalf-siggraph-asia/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2024-pygandalf-siggraph-asia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiences and Challenges on Testing and Validating Network Aware PPDR XR Applications for 5G Advanced Networks</title>
+      <link>https://kamarianakis.github.io/publication/2024-fidal-paper/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2024-fidal-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A computational medical XR discipline</title>
+      <link>https://kamarianakis.github.io/publication/2024-computational-medical-xr-cgi/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2024-computational-medical-xr-cgi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vr isle academy: a vr digital twin approach for robotic surgical skill development</title>
+      <link>https://kamarianakis.github.io/publication/2024-srs-cgi/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2024-srs-cgi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dissection of XR Physics Engine into a Cloud-native Service</title>
+      <link>https://kamarianakis.github.io/publication/2024-physics-dissection-eg2024/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2024-physics-dissection-eg2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A network application approach towards 5G and beyond critical communications use cases</title>
+      <link>https://kamarianakis.github.io/publication/2024-5gepicentre-paper/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2024-5gepicentre-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survey of new applications of geometric algebra</title>
+      <link>https://kamarianakis.github.io/publication/2023-ga-survey-wiley/</link>
+      <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2023-ga-survey-wiley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UniSG^GA: A 3D Scenegraph Powered by Geometric Algebra Unifying Geometry, Behavior and GNNs towards Generative AI</title>
+      <link>https://kamarianakis.github.io/publication/2023-unisg_ga-engage/</link>
+      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2023-unisg_ga-engage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UniSG: Unifying Entity-Component-Systems, 3D &amp; Learning Scenegraphs with GNNs for Generative AI</title>
+      <link>https://kamarianakis.github.io/publication/2023-unisg-arxiv/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2023-unisg-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAGES 4.0: Accelerating the World’s Transition to VR Training and Democratizing the Authoring of the Medical Metaverse</title>
+      <link>https://kamarianakis.github.io/publication/2023-mages-4.0-ieee-cga/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2023-mages-4.0-ieee-cga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Less Is More: Efficient Networked VR Transformation Handling Using Geometric Algebra</title>
+      <link>https://kamarianakis.github.io/publication/2023-less-is-more-aaca/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2023-less-is-more-aaca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AR-Assisted Surgical Care via 5G Networks for First Aid Responders</title>
+      <link>https://kamarianakis.github.io/publication/2023-ar-assisted-surgical-care-ieee-camad-2022/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2023-ar-assisted-surgical-care-ieee-camad-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project Elements: A Computational Entity-component-system in a Scene-graph Pythonic Framework, for a Neural, Geometric Computer Graphics Curriculum</title>
+      <link>https://kamarianakis.github.io/publication/2023-elements-eg2023-education/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2023-elements-eg2023-education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notes on the Decidability of Addition and the Frobenius Map for Polynomials and Rational Functions</title>
+      <link>https://kamarianakis.github.io/publication/2022-notes-on-decidability-rml/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2022-notes-on-decidability-rml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recording and Replaying Psychomotor User Actions in VR</title>
+      <link>https://kamarianakis.github.io/publication/2022-vr-recorder-siggraph-2022-posters/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2022-vr-recorder-siggraph-2022-posters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Editorial: New Virtual Reality and Spatial Computing Applications to Empower, Upskill and Reskill Medical Professionals in a Post-Pandemic Era</title>
+      <link>https://kamarianakis.github.io/publication/2022-editorial-frontiers-vr/</link>
+      <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2022-editorial-frontiers-vr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual Reality Medical Training for COVID-19 Swab Testing and Proper Handling of Personal Protective Equipment: Development and Usability</title>
+      <link>https://kamarianakis.github.io/publication/2022-vr-swab-testing-frontiers/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2022-vr-swab-testing-frontiers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing Unconstrained Surgical Cuttings in VR Using CNNs</title>
+      <link>https://kamarianakis.github.io/publication/2022-surgical-cuttings-cnn-arxiv/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2022-surgical-cuttings-cnn-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud-Based XR Services: A Survey on Relevant Challenges and Enabling Technologies</title>
+      <link>https://kamarianakis.github.io/publication/2022-cloud-based-xr-jnna/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2022-cloud-based-xr-jnna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progressive Tearing and Cutting of Soft-bodies in High-performance Virtual Reality</title>
+      <link>https://kamarianakis.github.io/publication/2022-progressive-tearing-and-cutting-egve-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2022-progressive-tearing-and-cutting-egve-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realistic Soft-Body Tearing under 10ms in VR</title>
+      <link>https://kamarianakis.github.io/publication/2022-realistic-softbody-tearing-arxiv/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2022-realistic-softbody-tearing-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud for Holography and Augmented Reality</title>
+      <link>https://kamarianakis.github.io/publication/2021-cloud-holography-cloudnet/</link>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2021-cloud-holography-cloudnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>‘Deep Cut‘: An All-in-One Geometric Algorithm for Unconstrained Cut, Tear and Drill of Soft-bodies in Mobile VR.</title>
+      <link>https://kamarianakis.github.io/publication/2021-deep-cut-arxiv/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2021-deep-cut-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Covid-19 - VR Strikes Back: Innovative Medical VR Training</title>
+      <link>https://kamarianakis.github.io/publication/2021-cvrsb-siggraph-2021-immersive-pavilion/</link>
+      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2021-cvrsb-siggraph-2021-immersive-pavilion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decidability of the theory of addition and the Frobenius map in certain rings of rational functions</title>
+      <link>https://kamarianakis.github.io/publication/2021-decidability-panhellenic-logic-symposium/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2021-decidability-panhellenic-logic-symposium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An All-in-One Geometric Algorithm for Cutting, Tearing, and Drilling Deformable Models</title>
+      <link>https://kamarianakis.github.io/publication/2021-all-in-one-aaca/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2021-all-in-one-aaca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decidability of the Theory of Addition and the Frobenius Map in Rings of Rational Functions</title>
+      <link>https://kamarianakis.github.io/publication/2021-decidability-theory-arxiv/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2021-decidability-theory-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Never ‘Drop the Ball’ in the Operating Room: An Efficient Hand-Based VR HMD Controller Interpolation Algorithm, for Collaborative, Networked Virtual Environments</title>
+      <link>https://kamarianakis.github.io/publication/2021-never-drop-the-ball-acg/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2021-never-drop-the-ball-acg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAGES 3.0: Tying the Knot of Medical VR</title>
+      <link>https://kamarianakis.github.io/publication/2020-mages-3.0-siggraph-2020-immersive-pavilion/</link>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2020-mages-3.0-siggraph-2020-immersive-pavilion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicates of the 3D Apollonius Diagram</title>
+      <link>https://kamarianakis.github.io/publication/2018-apollonius-predicates-thesis/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2018-apollonius-predicates-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deform, Cut and Tear a Skinned Model Using Conformal Geometric Algebra</title>
+      <link>https://kamarianakis.github.io/publication/2020-deform-cut-and-tear-engage/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2020-deform-cut-and-tear-engage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The EdgeConflict Predicate in the 3D Apollonius Diagram</title>
+      <link>https://kamarianakis.github.io/publication/2018-edgeconflict-predicate-voronoi/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2018-edgeconflict-predicate-voronoi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of the textsfIncircle predicate for the Euclidean Voronoi diagram of axes-aligned line segments</title>
+      <link>https://kamarianakis.github.io/publication/2012-incircle-predicate-eurocg-2012/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2012-incircle-predicate-eurocg-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicates for the Euclidean Voronoi Diagram of Axis-Aligned and Ortho-45 Line Segments</title>
+      <link>https://kamarianakis.github.io/publication/2011-predicates-voronoi-msc-thesis/</link>
+      <pubDate>Fri, 16 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://kamarianakis.github.io/publication/2011-predicates-voronoi-msc-thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
